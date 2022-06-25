@@ -1,0 +1,116 @@
+.header{
+    height: 100px;
+    background-color: rgb(39, 10, 10);
+   
+    
+}
+.header img{
+ height: 100px;
+ padding: 0px;
+ margin-left: 0px;
+ 
+ 
+}
+body{
+    margin: 0px;
+    
+}
+.header{
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    gap :50px;
+    
+}
+p{
+    color: aliceblue;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 30px;
+   
+    
+}
+button{
+    height: 300px;
+    width: 300px;
+    border-radius: 30px;
+   border: 5px solid rgb(78, 7, 7);
+
+    
+    
+    
+}
+.foot p{
+    background-color: rgb(58, 28, 28);
+    color: rgb(170, 161, 155);
+    height: 60px;
+    font-size: 30px;
+    margin: auto; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 325px;
+    
+
+}
+.content{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+    gap:40px;
+    
+    
+}
+.content p{
+    color: black;
+    font-weight: 700;
+}
+.top p{
+    color: rgb(15, 1, 1);
+    font-family:'Courier New', Courier, monospace;
+    font-size: 50px;
+    text-align: center;
+}
+body{
+    background-color: rgb(114, 108, 108);
+}
+.b1 image{
+   height: 30px;
+}
+.table{
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+    margin-top: 60px;
+}
+#l{
+    height: 200px;
+    width: 300px;
+    border: 5px solid rgb(78, 7, 7);
+    background-color: aliceblue;
+
+    
+}
+#r{
+    height: 200px;
+    width: 300px;
+    border: 5px solid rgb(78, 7, 7);
+    background-color: aliceblue;
+    
+}
+#l p{
+    margin: 30px;
+    color: rgb(26, 21, 21);
+    font-size: 30px;
+   
+}
+#r p{
+    margin: 30px;
+    color: rgb(23, 17, 17);
+    font-size: 30px;
+    
+}
+button:hover {
+	background-color: rgb(86, 22, 22);
+}
